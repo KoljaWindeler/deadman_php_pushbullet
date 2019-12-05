@@ -27,7 +27,7 @@ So as long as everything is up and running, this will never trigger and I'll nev
 
 ## Setup
 1. copy this file https://raw.githubusercontent.com/KoljaWindeler/deadman_php_pushbullet/master/yaml/deadman.yaml
-to your package folder. 
+to your package folder. (https://www.home-assistant.io/docs/configuration/packages/#create-a-packages-folder)
 2. get a Pushbullet token: https://www.pushbullet.com/#settings/account -> Create access token 
 3. Add the token to your secrets.yaml: "pushbullet_key: YOURTOKENGOESHERE"
 

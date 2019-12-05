@@ -56,3 +56,9 @@ So worse case your push bullet message will come after 10+2 minutes.
 Simply open the developer tools -> service and run:
 homeassistant.turn_off and select automation.deadman_reset as entity. 
 This will stop the resetting and thus will trigger the switch after the timeout.
+
+
+### the server
+The script runs on a professionally hosted server. I don't plan to take it offline 
+as it is running quite a lot of services on other URLs. But I won't garantuee its
+operation ... obviously. You can always install the service on your own server of cause.
